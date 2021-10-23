@@ -1,0 +1,9 @@
+name: tabs-downloader
+
+dependencies:
+  - ipykernel
+  - black
+  - bs4
+  - pip
+  - pip:
+      - waybackpy
